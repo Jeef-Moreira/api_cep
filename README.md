@@ -1,8 +1,6 @@
 # Consumo da API através do CEP de diferentes cidades
 ## Este é o projeto onde irei consumir uma API que trabalha atráves do CEP e gera as informações daquela determinada cidade
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LogoCompasso-positivo.png/440px-LogoCompasso-positivo.png)](https://compass.uol/pt/home/)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Jeef-Moreira)
 
 Neste arquivo se encontra detalhado todo o experimento de como consumir uma API pública, neste caso, uma API que trabalha em gerar informações de determinada cidade atráves do seu CEP , iremos também adicionar uma imagem pelo container docker e mostrar as informações no back-end e no front-end de uma determinada porta. Será apresentado:
